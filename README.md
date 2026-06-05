@@ -16,11 +16,5 @@ Prerequisites
 
 Install the following software before running the project:
 
-Software	Purpose
-Python 3.x	Run the application
-PyCharm Community Edition	Project development and execution
-SQL Server	Database server
-SQL Server Management Studio (SSMS)	Database management
-Node.js	Required for blockchain tools
-Ganache	Local Ethereum blockchain
-Truffle	Smart contract deployment framework
+<img width="1536" height="1024" alt="c8a05ff8-6a1f-42cf-b447-08aa64bea249" src="https://github.com/user-attachments/assets/3a87efd8-92f8-4840-b282-bd18c38c6297" />
+
