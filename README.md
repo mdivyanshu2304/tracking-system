@@ -1,16 +1,15 @@
-# tracking-system
+# Food Supply Chain Management System / tracking system
 
 Overview
 
 This project is a Blockchain-based Food Supply Chain Management System that integrates:
 
-Python Web Application
-SQL Server Database
-Ethereum Blockchain
-Ganache Local Blockchain
-Truffle Framework
+-Python Web Application
+-SQL Server Database
+-Ethereum Blockchain
+-Ganache Local Blockchain
+-Truffle Framework
 
-The application stores food supply chain information in SQL Server while maintaining transaction integrity using blockchain technology.
 
 Prerequisites
 
