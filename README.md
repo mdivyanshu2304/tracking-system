@@ -16,5 +16,6 @@ Prerequisites
 
 Install the following software before running the project:
 
-<img width="1536" height="1024" alt="c8a05ff8-6a1f-42cf-b447-08aa64bea249" src="https://github.com/user-attachments/assets/3a87efd8-92f8-4840-b282-bd18c38c6297" />
+<img width="1300" height="800" alt="824b4445-d3c9-4fcb-9b4f-4ce66f31a7f0" src="https://github.com/user-attachments/assets/3328eac6-3bbe-4a20-9158-fe25a102335b" />
+
 
