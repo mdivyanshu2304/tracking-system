@@ -1,13 +1,13 @@
-Project Setup
+# Project Setup
 
 Step 1: Open the Project
 
-Open PyCharm as Administrator.\
+Open PyCharm as Administrator.
 Open the FoodSupplyChain project folder.
 
 Step 2: Restore Database
 
-Open SQL Server Management Studio (SSMS) as Administrator.\
+Open SQL Server Management Studio (SSMS) as Administrator.
 
 Steps:-\
 Restore Database\
@@ -24,15 +24,14 @@ After successful restoration, the FoodSupplyChain database should appear under D
 Step 3: Verify Database Server Name
 
 Open:\
-constants.py\
+constants.py
 
 Verify that the SQL Server name matches the SQL Server instance name shown in SQL Server Management Studio (SSMS).\
 
-Example:\
+Example:
+SERVER_NAME = "YOUR_SERVER_NAME"
 
-SERVER_NAME = "YOUR_SERVER_NAME"\
-
-If already configured, no changes are required.\
+If already configured, no changes are required.
 
 Step 4: Configure Ganache
 
@@ -43,41 +42,41 @@ Click Add Project\
 Browse to:\
 FoodSupplyChain-Truffle/truffle-config.js\
 Select the file\
-Click Save and Restart\
+Click Save and Restart
 
-Ganache is now linked to the blockchain project.\
+Ganache is now linked to the blockchain project.
 
-# Smart Contract Deployment\
+# Smart Contract Deployment
 
 Step 5: Open Command Prompt
 
-Run Command Prompt as Administrator.\
+Run Command Prompt as Administrator.
 
-Navigate to the Truffle project:\
+Navigate to the Truffle project:
 
-D:\
-cd FoodSupplyChain\
-cd FoodSupplyChain-Truffle\
+D:
+cd FoodSupplyChain
+cd FoodSupplyChain-Truffle
 
 Step 6: Install Truffle
 
-Install Truffle globally:\
+Install Truffle globally:
 
-npm install -g truffle\
+npm install -g truffle
 
 Step 7: Compile Smart Contracts
 
-Compile blockchain contracts:\
+Compile blockchain contracts:
 
-truffle compile\
+truffle compile
 
-Successful compilation generates contract artifacts.\
+Successful compilation generates contract artifacts.
 
 Step 8: Deploy Smart Contracts
 
-Deploy contracts to Ganache:\
+Deploy contracts to Ganache:
 
-truffle migrate\
+truffle migrate
 
 <img width="600" height="300" alt="ChatGPT Image Jun 7, 2026, 11_32_20 AM" src="https://github.com/user-attachments/assets/aaab3093-212c-4c01-8851-798cc74ec53e" />
 
